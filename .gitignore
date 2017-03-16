@@ -1,0 +1,3 @@
+# The line begin with '#' will be treated as a comment
+# Ignore file if the last symbol of the file name is '~'
+*~
